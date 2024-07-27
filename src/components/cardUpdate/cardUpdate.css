@@ -1,0 +1,29 @@
+.cardUpdate form {
+    display: flex;
+    flex-direction: column;
+    height: 70%;
+}
+
+.cardUpdate form input {
+    width: 200px;
+    height: 30%;
+    border-radius: 5px;
+    border: none;
+}
+
+.cardUpdate form textarea {
+    width: 200px;
+    height: 40%;
+    border-radius: 5px;
+    border: none;
+}
+
+.container-btn-update {
+    gap: 10px;
+    margin-top: 10px;
+
+}
+
+.container-btn-update button {
+    margin-left: 10px;
+}
